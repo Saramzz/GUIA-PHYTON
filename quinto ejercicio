@@ -1,0 +1,4 @@
+mis_horas_laboradas = 8
+mis_horas_laboradas = input ("¿cuantas horas trabajas?")
+mi_salario_por_hora = 15.000
+mi_salario_por_hora = input("cuanto te pagan por hora?")
