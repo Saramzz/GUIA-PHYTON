@@ -1,0 +1,5 @@
+stock= (input('contraseña'))
+if stock =='atun123':
+    print('es correcta')
+else:
+    print('incorrecta')
