@@ -1,0 +1,4 @@
+peso=float(input("cuanto pesas en kg?"))
+altura=float(input("cuanto mides en m?"))
+masa_corporal=peso/altura
+print ("tu masa corporal es", masa_corporal)
